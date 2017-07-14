@@ -1,0 +1,2 @@
+# MyFirstApp
+cordova_app
